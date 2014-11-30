@@ -1,0 +1,6 @@
+*.class
+
+cc_open_address/data/*
+cc_open_address/output
+*.tar.gz
+target/*
